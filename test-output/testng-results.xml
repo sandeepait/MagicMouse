@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="95699" started-at="2018-12-10T03:42:50Z" finished-at="2018-12-10T03:44:26Z">
+    <groups>
+      <group name="Functional">
+        <method signature="BuyMagicMouse.positiveE2ETestCase(java.lang.String)[pri:1, instance:ethoca_project.BuyMagicMouse@6321e813]" name="positiveE2ETestCase" class="ethoca_project.BuyMagicMouse"/>
+      </group> <!-- Functional -->
+      <group name="Regression">
+        <method signature="BuyMagicMouse.positiveE2ETestCase(java.lang.String)[pri:1, instance:ethoca_project.BuyMagicMouse@6321e813]" name="positiveE2ETestCase" class="ethoca_project.BuyMagicMouse"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="Test" duration-ms="95699" started-at="2018-12-10T03:42:50Z" finished-at="2018-12-10T03:44:26Z">
+      <class name="ethoca_project.BuyMagicMouse">
+        <test-method status="PASS" signature="initializeTest()[pri:0, instance:ethoca_project.BuyMagicMouse@6321e813]" name="initializeTest" is-config="true" duration-ms="52415" started-at="2018-12-10T03:42:50Z" finished-at="2018-12-10T03:43:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTest -->
+        <test-method status="PASS" signature="positiveE2ETestCase(java.lang.String)[pri:1, instance:ethoca_project.BuyMagicMouse@6321e813]" name="positiveE2ETestCase" duration-ms="41512" started-at="2018-12-10T03:43:43Z" finished-at="2018-12-10T03:44:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveE2ETestCase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ethoca_project.BuyMagicMouse@6321e813]" name="tearDown" is-config="true" duration-ms="1740" started-at="2018-12-10T03:44:24Z" finished-at="2018-12-10T03:44:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ethoca_project.BuyMagicMouse -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

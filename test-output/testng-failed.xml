@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="customerId" value="1"/>
+    <classes>
+      <class name="ethoca_project.BuyMagicMouse">
+        <methods>
+          <include name="initializeTest"/>
+          <include name="positiveE2ETestCase" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- ethoca_project.BuyMagicMouse -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
