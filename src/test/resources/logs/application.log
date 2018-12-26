@@ -1,22 +1,22 @@
-09/12/2018 22:42:50 devpinoyLogger Config File Loaded
-09/12/2018 22:43:22 devpinoyLogger Chrome Browser Launched!
-09/12/2018 22:43:43 devpinoyLogger Navigated to the Web Page: ONLINE STORE | Toolsqa Dummy Test site
-09/12/2018 22:43:43 devpinoyLogger HomePage object created
-09/12/2018 22:43:43 devpinoyLogger Accessories page object created
-09/12/2018 22:43:43 devpinoyLogger Checkout page object created
-09/12/2018 22:43:43 devpinoyLogger Transaction Results page object created
-09/12/2018 22:43:49 devpinoyLogger Accessories page launched
-09/12/2018 22:43:50 devpinoyLogger clicked on AddToCart
-09/12/2018 22:43:56 devpinoyLogger clicked on checkout
-09/12/2018 22:43:56 devpinoyLogger Quantity on the checkout Page1
-09/12/2018 22:43:57 devpinoyLogger Click on the Button[[ChromeDriver: chrome on XP (219cbe41b154e8d3005c8afd6b2956bd)] -> xpath: //span[contains(text(),'Continue')]]
-09/12/2018 22:43:57 devpinoyLogger Purchase screen appearted with text:- null
-09/12/2018 22:44:08 devpinoyLogger strQueryselect * from contactDetails where CustomerId ='1'
-09/12/2018 22:44:10 devpinoyLogger Number of records1
-09/12/2018 22:44:13 devpinoyLogger All the details on the purchase screen have been entered
-09/12/2018 22:44:24 devpinoyLogger transResultsTextElement text:-Transaction Results
-09/12/2018 22:44:24 devpinoyLogger Transaction Screen is appearing
-09/12/2018 22:44:24 devpinoyLogger purchaseSuccessElement text:-Thank you for purchasing with ONLINE STORE, any items to be shipped will be processed as soon as possible, any items that can be downloaded can be downloaded using the links on this page. All prices include tax and postage and packaging where applicable.
+25/12/2018 18:30:14 devpinoyLogger Config File Loaded
+25/12/2018 18:30:46 devpinoyLogger Chrome Browser Launched!
+25/12/2018 18:31:38 devpinoyLogger Navigated to the Web Page: ONLINE STORE | Toolsqa Dummy Test site
+25/12/2018 18:31:38 devpinoyLogger HomePage object created
+25/12/2018 18:31:38 devpinoyLogger Accessories page object created
+25/12/2018 18:31:38 devpinoyLogger Checkout page object created
+25/12/2018 18:31:38 devpinoyLogger Transaction Results page object created
+25/12/2018 18:31:48 devpinoyLogger Accessories page launched
+25/12/2018 18:31:48 devpinoyLogger clicked on AddToCart
+25/12/2018 18:31:54 devpinoyLogger clicked on checkout
+25/12/2018 18:31:54 devpinoyLogger Quantity on the checkout Page1
+25/12/2018 18:31:54 devpinoyLogger Click on the Button[[ChromeDriver: chrome on XP (673491f059614b39f7586f3f52835b67)] -> xpath: //span[contains(text(),'Continue')]]
+25/12/2018 18:31:55 devpinoyLogger Purchase screen appearted with text:- null
+25/12/2018 18:31:59 devpinoyLogger strQueryselect * from contactDetails where CustomerId ='1'
+25/12/2018 18:31:59 devpinoyLogger Number of records1
+25/12/2018 18:32:02 devpinoyLogger All the details on the purchase screen have been entered
+25/12/2018 18:32:11 devpinoyLogger transResultsTextElement text:-Transaction Results
+25/12/2018 18:32:11 devpinoyLogger Transaction Screen is appearing
+25/12/2018 18:32:11 devpinoyLogger purchaseSuccessElement text:-Thank you for purchasing with ONLINE STORE, any items to be shipped will be processed as soon as possible, any items that can be downloaded can be downloaded using the links on this page. All prices include tax and postage and packaging where applicable.
 You ordered these items:
-09/12/2018 22:44:24 devpinoyLogger Purchase has been successful
-09/12/2018 22:44:26 devpinoyLogger Browser Closed
+25/12/2018 18:32:11 devpinoyLogger Purchase has been successful
+25/12/2018 18:32:12 devpinoyLogger Browser Closed
